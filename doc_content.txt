@@ -1,0 +1,22 @@
+﻿YÊU CẦU ĐỒ ÁN CÁC LỚP PHP & MYSQL
+Yêu cầu: 
+- Thành phần nhóm: 1 nhóm 2-3 thành viên.
+- Sản phẩm: Làm báo cáo và sản phẩm mã nguồn hoàn thiện.
+- Tiêu chí đánh giá:
++ D: phải xây dựng hệ thống website động PHP&MYSQL (<7.0)
++ C: hệ thống chức năng phong phú frontend, backend(7.0 -8.4)
++ B,B+ Sử dụng mô hình MVC, opensource framework(laravel,moodle…), sử dụng các kỹ thuật khó như phân trang, ajax. (8.0-8.5)
++ A: Website thương mại điện tử đầy đủ chức năng(hướng đối tượng); 
+- Danh sách đề tài:
+Hệ thống Website giới hiệu bán hàng và hệ thống backend order sản phẩm
+Hệ thống Website giới thiệu nhà hàng và backend order dịch vụ
+Hệ thống Website giới thiệu tour du lịch và đặt tour
+Hệ thống Website xem phim
+Hệ thống Website truyện tranh
+Hệ thống Website bất động sản
+Hệ thống website đăng tin rao vặt
+Hệ thống quản lý cơ sở vật chất
+Hệ thống quản lý ký túc xá
+Hệ thống quản lý Đoàn viên
+Hệ thống quản lý công văn
+Hệ thống quản lý lịch làm việc
